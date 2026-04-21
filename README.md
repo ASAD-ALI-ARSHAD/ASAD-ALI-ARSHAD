@@ -35,7 +35,7 @@ Fun fact: **I spend more time waiting for epochs to finish than I do sleeping**
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,jupyter,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,C++,tensorflow,pytorch,jupyter,vscode,github,git,kaggle" />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,react,nodejs,linux" /><br>
 </div>
 
@@ -43,13 +43,11 @@ Fun fact: **I spend more time waiting for epochs to finish than I do sleeping**
 <hr/>
 
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2>📈 My Contributions 📈</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ASAD-ALI-ARSHAD/ASAD-ALI-ARSHAD/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="Asad's GitHub Contributions chart" src="https://ghchart.rshah.org/ASAD-ALI-ARSHAD" />
   <br/><br/><br/>
 </div>
-
 <hr/>
 
 <h2 align="center"> Stats </h2>
@@ -64,11 +62,3 @@ Fun fact: **I spend more time waiting for epochs to finish than I do sleeping**
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/YOUR_KOFI_LINK' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
