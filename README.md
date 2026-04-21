@@ -35,7 +35,7 @@ Fun fact: **I spend more time waiting for epochs to finish than I do sleeping**
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,C++,tensorflow,pytorch,jupyter,vscode,github,git,kaggle" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,vscode,github,git,kaggle,C++" />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,react,nodejs,linux" /><br>
 </div>
 
@@ -43,7 +43,7 @@ Fun fact: **I spend more time waiting for epochs to finish than I do sleeping**
 <hr/>
 
 <div align="center">
-  <h2>📈 My Contributions 📈</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="Asad's GitHub Contributions chart" src="https://ghchart.rshah.org/ASAD-ALI-ARSHAD" />
   <br/><br/><br/>
