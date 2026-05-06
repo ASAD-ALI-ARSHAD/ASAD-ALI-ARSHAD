@@ -53,12 +53,15 @@ Fun fact: **I spend more time waiting for epochs to finish than I do sleeping**
 <h2 align="center">Stats </h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ASAD-ALI-ARSHAD&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ASAD-ALI-ARSHAD&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <!-- GitHub Streak Stats -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ASAD-ALI-ARSHAD&theme=react&border_radius=10" alt="streak stats"/>
+  <!-- GitHub Readme Stats (Mirror Link) -->
+  <img width="49%" src="https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api?username=ASAD-ALI-ARSHAD&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </p>
 
 <p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAD-ALI-ARSHAD&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <!-- Top Languages (Mirror Link) -->
+  <img width="400" src="https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api/top-langs/?username=ASAD-ALI-ARSHAD&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </p>
 
 <hr/>
